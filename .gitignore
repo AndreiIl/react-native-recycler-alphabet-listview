@@ -1,0 +1,6 @@
+/.idea
+modules.xml
+*.ipr
+*.iml
+/node_modules
+*.DS_Store

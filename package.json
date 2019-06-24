@@ -1,0 +1,21 @@
+{
+  "name": "react-native-recycler-alphabet-listview",
+  "version": "1.0.0",
+  "description": "React Native alphabet list view component for large arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "alphabet",
+    "lisview",
+    "performance"
+  ],
+  "dependencies": {
+    "prop-types": "^15.6.1",
+    "recyclerlistview": "^2.0.0-beta.1"
+  },
+  "author": "Andrei Ilinca",
+  "license": "ISC"
+}
